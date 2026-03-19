@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+.titulo {
+    color: blue;
+}
+
+.tabla {
+    margin: auto;
+    border-collapse: collapse;
+}
+
+.tabla th, .tabla td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.tabla th {
+    background-color: lightblue;
+}
