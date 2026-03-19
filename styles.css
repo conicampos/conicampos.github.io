@@ -1,11 +1,11 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #c39373;
     text-align: center;
 }
 
 .titulo {
-    color: blue;
+    color: rgb(0, 0, 0);
 }
 
 .tabla {
@@ -14,10 +14,10 @@ body {
 }
 
 .tabla th, .tabla td {
-    border: 1px solid black;
+    border: 1px solid rgb(62, 44, 32);
     padding: 10px;
 }
 
 .tabla th {
-    background-color: lightblue;
+    background-color: rgb(204, 178, 160);
 }
